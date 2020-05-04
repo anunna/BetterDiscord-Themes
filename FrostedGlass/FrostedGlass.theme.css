@@ -10,10 +10,9 @@
 Awesome images by the Among Trees game
 Website: https://www.amongtreesgame.com/
 
-Forest 1080p:     https://i.redd.it/4v718eku9z221.png
-Dear 4K:          https://i.imgur.com/kYW2H5C.jpg
-Valley 2K:        https://hdqwalls.com/wallpapers/small-memory-lp.jpg
-Valley 8K:        https://i.imgur.com/768zfyS.jpg
+Faceless:         https://www.ubackground.com/_ph/3/109010265.jpg
+Graffiti:         
+
 */
 
 @import url("https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/base.css");
@@ -26,7 +25,7 @@ Valley 8K:        https://i.imgur.com/768zfyS.jpg
 
 :root {
   /* Image variables */
-  --BG-image: url("https://i.imgur.com/kYW2H5C.jpg");  /* URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --BG-image: url("https://wallpapertag.com/wallpaper/full/1/e/2/150484-new-grunge-background-tumblr-1920x1080.jpg");  /* URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --BG-image-blur: 5px;  /* MUST END IN px (0px) | DEFAULT: 5px */
 
   /* Brightness variables */
@@ -36,7 +35,7 @@ Valley 8K:        https://i.imgur.com/768zfyS.jpg
   --BG-popout-brightness: 0.7;  /* 0 - 1 (decimals allowed) | Usually darker than --BG-right-brightness | DEFAULT: 0.7 */
 
   /* Tint variables */
-  --BG-tint-colour: 255, 51, 159;  /* Colour of tint. Follow Gradient Variables instructions to get your desired colour | DEFAULT: 255, 51, 159 */
+  --BG-tint-colour: 114, 28, 135;  /* Colour of tint. Follow Gradient Variables instructions to get your desired colour | DEFAULT: 255, 51, 159 */
   --BG-tint-brightness: 0;  /* Intensity of --BG-tint-colour | 0 - 1 (decimals allowed) | DEFAULT: 0 */
 
   /*
@@ -45,8 +44,8 @@ Valley 8K:        https://i.imgur.com/768zfyS.jpg
     to get your desired RGB numbers. Then simply put each number in their respective area.
     R,G,B
   */
-  --BG-gradient-one: 103,58,183;  /* DEFAULT: 103,58,183 */
-  --BG-gradient-two: 63,81,181;  /* DEFAULT: 63,81,181 */
+  --BG-gradient-one: 114,28,135;  /* DEFAULT: 103,58,183 */
+  --BG-gradient-two: 114,28,135;  /* DEFAULT: 63,81,181 */
   --BG-gradient-direction: -45deg;  /* DEFAULT: -45deg */
 
   /* Other variables */
